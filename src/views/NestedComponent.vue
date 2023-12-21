@@ -7,6 +7,6 @@
 <script>
 import PageTitle from "../components/PageTitle.vue";
 export default {
-  components: { PageTitle },
-};
+  components: { PageTitle }
+}
 </script>

@@ -1,10 +1,10 @@
 <template>
-  <h2>{{ Title }}</h2>
+  <h2>{{ title }}</h2>
 </template>
 <script>
 export default {
   props: {
-    Title: {
+    title: {
       type: String,
       default: "페이지 제목입니다.",
     },
