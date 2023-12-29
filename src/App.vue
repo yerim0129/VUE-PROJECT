@@ -8,6 +8,7 @@
     <router-link to="/DataBindingList">Data List</router-link> |
     <router-link to="/DataBindingList2">Data List2</router-link> |
     <router-link to="/NestedComponent">Nested</router-link> |
+    <router-link to="/ParentComponent">Parent</router-link> |
   </nav>
   <router-view />
 </template>
