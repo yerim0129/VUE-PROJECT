@@ -8,7 +8,6 @@ import DataBindingList from "../views/DataBindingList.vue";
 import DataBindingList2 from "../views/DataBindingList2.vue";
 import Nested from "../views/NestedComponent.vue";
 import ParentComponent from "../views/ParentComponent.vue";
-
 /* eslint-disable */
 const routes = [
   {
